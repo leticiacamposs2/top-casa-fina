@@ -28,8 +28,9 @@
 
 footer {
     background-color: #333;
-    color:#FFF;
+    color: #FFF;
     padding: 20px;
+    margin-top: 20px;
 }
 
 footer address:last-child {
