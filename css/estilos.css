@@ -33,8 +33,19 @@ footer {
     margin-top: 10px;
 }
 
-footer address:last-child {
- margin-bottom: 0;
+footer adress:last-child {
+    margin-bottom: 0;
+}
+
+@media(min-with: 768px) {
+    .colunas-2 {
+    width: 50%;
+    float: left;
+    }
+
+    #paineis-sobre {
+    margin-top: 0;
+    }
 }
 
 html, 
